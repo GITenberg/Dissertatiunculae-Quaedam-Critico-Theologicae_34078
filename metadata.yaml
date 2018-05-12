@@ -1,0 +1,32 @@
+_repo: Dissertatiunculae-Quaedam-Critico-Theologicae_34078
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Newman, John Henry
+    aliases:
+    - Newman, John Henry, Cardinal
+    - Newman, J. H. (John Henry)
+    birthdate: 1801
+    deathdate: 1890
+    gutenberg_agent_id: '8264'
+    url: http://www.gutenberg.org/2009/agents/8264
+    wikipedia: http://en.wikipedia.org/wiki/John_Henry_Newman
+description: ''
+gutenberg_issued: '2010-10-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34078'
+language: la
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian literature, Early'
+- !lcc 'BT'
+- !lcsh 'Church history -- Primitive and early church, ca. 30-600'
+- !lcsh 'Fathers of the church'
+title: Dissertatiunculae Quaedam Critico-Theologicae
+url: http://www.gutenberg.org/ebooks/34078
